@@ -1,5 +1,3 @@
-# python-stack-workflow
-
 # 📚 Python Stack Workflow Implementation
 
 A lightweight, clean console demonstration of a **Stack** data structure implemented using pure Python. This project highlights foundational data handling built around the **LIFO (Last In, First Out)** structural principle.
